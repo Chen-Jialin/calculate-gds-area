@@ -1,0 +1,4 @@
+interface:
+  display_name: "GDS 版图面积统计 / GDS Layout Area"
+  short_description: "同层去重面积 / Deduplicated area by layers or cells"
+  default_prompt: "使用 $calculate-gds-area 统计 GDS 面积并按我的语言报告。 / Use $calculate-gds-area to measure GDS area and report in my language."
